@@ -1,0 +1,21 @@
+*{margin:0px; padding:0px; box-sizing:border-box;}
+img{max-width:100%; height:auto; vertical-align:middle;}
+body{background-color:antiquewhite;}
+.navbg{background-color: #9c8470c9;}
+
+.navbar-light .navbar-nav .nav-link
+{color: #f9fafb !important;}
+   
+.intxt{padding-top:50px; letter-spacing: 3px; font-size:2rem;}
+.intxt1{letter-spacing: 1px;  font-size:1.2rem;}
+    
+    /*============================About Section================*/
+.abt{border-bottom:3px dotted gray;}
+.abtbg{background-color:#89deb68c;}
+.abttxt{color:#541414;}
+
+.abgrp img{transition:all 1s; cursor:pointer;}
+.abgrp img:hover{transform:scale(1.1);}
+
+
+.ftbg{background-color: #3c4e37c9;}
